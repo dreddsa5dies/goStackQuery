@@ -27,7 +27,6 @@ func Query(err error, switcher int) {
 
 	default:
 		fmt.Fprintf(os.Stderr, "UNKNOWN switcher (need 0 or 1): %v\n", switcher)
-		os.Exit(1)
 	}
 
 	os.Exit(1)
