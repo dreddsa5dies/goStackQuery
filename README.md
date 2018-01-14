@@ -28,6 +28,12 @@ func main() {
 }
 ```
 
+## Switchers:
+0 - Query ERROR and paste link on STDERR  
+![IMAGE](img/switcher_0.png)  
+1 - Query ERROR on web browser and automate open link  
+![IMAGE](img/switcher_1.png)
+
 ## The code contains comments in Russian
 
 ## License
