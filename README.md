@@ -5,26 +5,34 @@
 ### Go (golang) package for search error on [Stackoverflow](https://stackoverflow.com)
 
 ## Install
-
 ```bash
 go get -v github.com/dreddsa5dies/goStackQuery
 ```
 
+## Package used
+```bash
+go get -v -u github.com/toqueteos/webbrowser
+```
+
 ## Example
 Examples of use, see [examples](https://github.com/dreddsa5dies/goStackQuery/tree/master/_examples)
-
 ```Go
 package main
 
 import (
-	"fmt"
 	"os"
 
 	goStackQuery "github.com/dreddsa5dies/goStackQuery"
 )
 
 func main() {
-	// TODO EXAMPLE
+	file, err := os.Open("file")
+	if err != nil {
+		goStackQuery.Query(err, 1)
+	}
+	defer file.Close()
+
+	file.WriteString("Aloha")
 }
 ```
 
