@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dreddsa5dies/goStackQuery.svg?branch=master)](https://travis-ci.org/dreddsa5dies/goStackQuery) [![Go Report Card](https://goreportcard.com/badge/github.com/dreddsa5dies/goStackQuery)](https://goreportcard.com/report/github.com/dreddsa5dies/goStackQuery) [![GORef](https://godoc.org/github.com/dreddsa5dies/goStackQuery?status.svg)](https://godoc.org/github.com/dreddsa5dies/goStackQuery) [![CircleCI Status](https://circleci.com/gh/dreddsa5dies/goStackQuery.svg?style=shield)](https://circleci.com/gh/dreddsa5dies/goStackQuery) ![License](https://img.shields.io/badge/License-MIT-blue.svg) [![codecov](https://codecov.io/gh/dreddsa5dies/goStackQuery/branch/master/graph/badge.svg)](https://codecov.io/gh/dreddsa5dies/goStackQuery)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/dreddsa5dies/goStackQuery)](https://goreportcard.com/report/github.com/dreddsa5dies/goStackQuery) [![GORef](https://godoc.org/github.com/dreddsa5dies/goStackQuery?status.svg)](https://godoc.org/github.com/dreddsa5dies/goStackQuery) ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ![IMAGE](img/logo.png)
 
